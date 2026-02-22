@@ -13,4 +13,6 @@ Expected use:
 
 Avoid deploying substantially similar public or commercial services based primarily on this codebase without prior coordination with the author.
 
+Except for the rights explicitly granted in the LICENSE file, no additional rights or permissions are implied.
+
 See the LICENSE file for the legally binding terms governing use, modification, and distribution.
